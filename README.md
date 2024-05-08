@@ -10,3 +10,7 @@
 
 124.ipynb - HW Control Flow
 
+131132.ipynb - HW Цикл for
+
+
+
